@@ -1,4 +1,36 @@
+# TRIONBootcamp2.0
 
+
+<!DOCTYPE html>
+<html>
+<head>
+
+<br><br><br><br><br><br>
+
+      <h1 style=" text-decoration : bolder; color:white  ; font-weight: bolder ; text-align:center ; font-family:Candara ; font-size: 5.5em  "> TRION &nbsp BOOTCAMP </h1> 
+      
+<br><br><br><br><br><br><br>
+
+<title> TRION BOOTCAMP </title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style type="text/css">
+  a{
+    color: white;
+    }
+</style>
+</head>
+
+<body style="background-image: url(new1.jpeg);background-size:100%">
+
+<footer class="page-footer font-small indigo" >
+<!-- Footer Links -->
+<div class="container-fluid" style="background-color:rgba(0,0,25,0.68);" >
+  
+<!-- Grid row -->
+  <div class="row"> 
     <div class="col-md-4" style="margin: 15px;text-transform: uppercase;font-family:Candara;font-size: 0.8em;color: white;"> 
       <h3 style="text-decoration: underline;color: #00bfff;font-weight: bolder;">Contact us</h3>
       <br>
